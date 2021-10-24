@@ -1,0 +1,16 @@
+C:\Users\P22\desktop\bank\bank\bin\Debug\net5.0\bank.exe
+c:\Users\P22\desktop\bank\bank\bin\Debug\net5.0\bank.deps.json
+c:\Users\P22\desktop\bank\bank\bin\Debug\net5.0\bank.runtimeconfig.json
+c:\Users\P22\desktop\bank\bank\bin\Debug\net5.0\bank.runtimeconfig.dev.json
+C:\Users\P22\desktop\bank\bank\bin\Debug\net5.0\bank.dll
+c:\Users\P22\desktop\bank\bank\bin\Debug\net5.0\ref\bank.dll
+C:\Users\P22\desktop\bank\bank\bin\Debug\net5.0\bank.pdb
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.csproj.AssemblyReference.cache
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.AssemblyInfoInputs.cache
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.AssemblyInfo.cs
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.csproj.CoreCompileInputs.cache
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.dll
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\ref\bank.dll
+C:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.pdb
+c:\Users\P22\desktop\bank\bank\obj\Debug\net5.0\bank.genruntimeconfig.cache
